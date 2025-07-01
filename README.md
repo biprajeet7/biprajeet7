@@ -8,7 +8,7 @@ class Biprajeet():
     def __init__(self):
         self.name = ['Biprajeet Sen']
         self.country = ['India']
-        self.language = ['English''हिंदी',,'বাংলা','অসমীয়া']
+        self.language = ['English''हिंदी','বাংলা','অসমীয়া']
     
     def programming_languages(self):
         return [

@@ -48,7 +48,7 @@ if __name__ == '__main__':
 
 ## 🌐 Socials:
 
-<a href="[https://www.linkedin.com/in/biprajeet-sen-b60939251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/biprajeet-sen-b60939251/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:biprajeet.official@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://www.instagram.com/biprajeet7/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" /></a>&nbsp;
 
